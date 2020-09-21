@@ -1,0 +1,11 @@
+{
+	"students":[
+		{"id":1,"name":"bob","gender":"0","age":"20","hobbies":"吃饭、睡觉、打豆豆"},
+		{"id":2,"name":"jack","gender":"1","age":"21","hobbies":"吃饭、睡觉、打豆豆"},
+		{"id":3,"name":"nice","gender":"1","age":"22","hobbies":"吃饭、睡觉、打豆豆"},
+		{"id":4,"name":"hobby","gender":"0","age":"23","hobbies":"吃饭、睡觉、打豆豆"},
+		{"id":5,"name":"bill","gender":"1","age":"24","hobbies":"吃饭、睡觉、打豆豆"},
+		{"id":6,"name":"nace","gender":"0","age":"25","hobbies":"吃饭、睡觉、打豆豆"},
+		{"id":7,"name":"best","gender":"1","age":"26","hobbies":"吃饭、睡觉、打豆豆"}
+		]
+	}
